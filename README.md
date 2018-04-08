@@ -1,4 +1,4 @@
-#OpenXcom Commendations Mod v 2.1
+OpenXcom Commendations Mod v 2.1
 
 This mod requires at least: openxcom_git_master_2017_06_26_2215 or newer. Should work with OXCE+ as well.
 
