@@ -1,4 +1,5 @@
 OpenXcom Commendations Mod v 2.1
+--------------------------------
 
 This mod requires at least: openxcom_git_master_2017_06_26_2215 or newer. Should work with OXCE+ as well.
 
@@ -12,7 +13,7 @@ Ivan Dogovich: Initial Mod, Graphics
 hellrazor: ruleset overwork, fixed templates, sorted files
 
 
-### WHAT LICENSE IS THIS MOD UNDER?
+#### WHAT LICENSE IS THIS MOD UNDER?
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 or see the LICENSE file.
 
@@ -47,6 +48,6 @@ They also Lack proper text in the extraStrings.
 #### HOW DO I PROVIDE FEEDBACK?
 Please post any feedback - bug reports, tanks, criticisms, requests for enhancements and the like - on the following [thread](http://openxcom.org/forum/index.php?topic=3048.0), or simply in the OXC Mods comment section.
 
-## CHANGELOG:
+#### CHANGELOG:
  - *2.1a*: Latest release now hosted on Github
  - *2.1*: Latest release before Github
