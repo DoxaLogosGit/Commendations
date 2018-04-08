@@ -1,0 +1,9 @@
+#OpenXcom Commendations Mod
+
+Intall instructions:
+ - Go to your Mod folder and delete the old "Commemdations" directory.
+ - Extract Zip file
+ - Copy over the directory "Commendations" in your user mods directory.
+ - Active "Commendations" under Mods
+
+This mod requieres at least: openxcom_git_master_2017_06_26_2215 or newer

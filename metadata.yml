@@ -1,0 +1,6 @@
+name: "OpenXcom Commendations Mod"
+version: 2.1
+description: "Rewards your Soldiers from a set of 61 Medals visible in their diary, you can also create your own medals!!"
+author: "Shoes, Ivan Dogovich, hellrazor"
+id: "commendations"
+master: "xcom1"
