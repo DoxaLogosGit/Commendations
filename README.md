@@ -8,9 +8,9 @@ Currently there are 61 Commendations available, even thou some are still missing
 
 
 #### CREDITS:
-Shoes: Initial Mod Creator
-Ivan Dogovich: Initial Mod, Graphics
-hellrazor: ruleset overwork, fixed templates, sorted files
+- Shoes: Initial Mod Creator
+- Ivan Dogovich: Initial Mod, Graphics
+- hellrazor: ruleset overwork, fixed templates, sorted files
 
 
 #### WHAT LICENSE IS THIS MOD UNDER?
