@@ -19,27 +19,27 @@ or see the LICENSE file.
 
 #### WHAT IS STILL MISSING:
 Graphics:
-	1.	STR_MEDAL_GLOBETROTTER
-		Commendation Sprite ID=20
-		UfoPaediaFilename=UfoPaedia_Medal_Globetrotter.png
-	2.	STR_MEDAL_MARTYR
-		Commendation Sprite ID=28
-		UfoPaediaFilename=UfoPaedia_Medal_Martyrer.png
-	3.	STR_MEDAL_MELEE
-		Commendation Sprite ID=30
-		UfoPaedia File already exists
-	4.	STR_MEDAL_MINDCONTROL
-		Commendation Sprite ID=33
-		UfoPaediaFilename=UfoPaedia_Medal_MindControl.png
-	5.	STR_MEDAL_POSTMORTEM_KILL
-		Commendation Sprite ID=38
-		UfoPaediaFilename=UfoPaedia_Medal_PostmortemKill.png
-	6.	STR_MEDAL_PSIPANIC
-		Commendation Sprite ID=39
-		UfoPaediaFilename=UfoPaedia_Medal_PsiPanic.png
-	7.  STR_MEDAL_SLAVEKILLS
-		Commendation Sprite ID=46
-		UfoPaediaFilename=UfoPaedia_Medal_Slavekills.png
+1. STR_MEDAL_GLOBETROTTER
+   Commendation Sprite ID=20
+   UfoPaediaFilename=UfoPaedia_Medal_Globetrotter.png
+2. STR_MEDAL_MARTYR
+   Commendation Sprite ID=28
+   UfoPaediaFilename=UfoPaedia_Medal_Martyrer.png
+3. STR_MEDAL_MELEE
+   Commendation Sprite ID=30
+   UfoPaedia File already exists
+4. STR_MEDAL_MINDCONTROL
+   Commendation Sprite ID=33
+   UfoPaediaFilename=UfoPaedia_Medal_MindControl.png
+5. STR_MEDAL_POSTMORTEM_KILL
+   Commendation Sprite ID=38
+   UfoPaediaFilename=UfoPaedia_Medal_PostmortemKill.png
+6. STR_MEDAL_PSIPANIC
+   Commendation Sprite ID=39
+   UfoPaediaFilename=UfoPaedia_Medal_PsiPanic.png
+7. STR_MEDAL_SLAVEKILLS
+   Commendation Sprite ID=46
+   UfoPaediaFilename=UfoPaedia_Medal_Slavekills.png
 
 Just draw over the SpriteShitCommendationCommendations to add.
 UfoPaediaPictures are Placeholders and can be overdrawn or just replaced.
