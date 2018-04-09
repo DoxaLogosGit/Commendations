@@ -182,7 +182,7 @@ commendations:
     description: STR_MEDAL_BESTOFRANK_DESCRIPTION
     sprite: 13
     criteria:
-      bestOfRank: [1, 2, 3, 4, 4, 5, 6, 6]
+      bestOfRank: [1]
   - type: STR_MEDAL_BESTSOLDIER
     description: STR_MEDAL_BESTSOLDIER_DESCRIPTION
     sprite: 14
