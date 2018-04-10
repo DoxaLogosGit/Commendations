@@ -2,6 +2,9 @@
 # When stats reach the criteria threshold, the commendation is awarded
 # Any vector greater than 10 will require more strings and more sprites decorations.
 # Commendations may have multiple criteria.
+# Multiple awards are handled in 10 positions in a vector []
+# There are four levels that represent the following of blank, 3 bronze stars, 3 silver stars, 3 gold stars for total of 10
+# so each position in the vector represents a level => [blank, bs, bs, bs, ss, ss, ss, gs, gs, gs]
 # List of possible criteria:
 #   totalKills
 #   totalMissions
