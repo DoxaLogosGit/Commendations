@@ -1,4 +1,4 @@
-OpenXcom Commendations Mod v 2.1
+OpenXcom Commendations Mod v 2.2
 --------------------------------
 
 This mod requires at least: openxcom_git_master_2017_06_26_2215 or newer. Should work with OXCE+ as well.
@@ -50,6 +50,13 @@ They also Lack proper text in the extraStrings.
 #### HOW DO I PROVIDE FEEDBACK?
 Please post any feedback - bug reports, tanks, criticisms, requests for enhancements and the like - on the following [thread](http://openxcom.org/forum/index.php?topic=3048.0), or simply in the OXC Mods comment section.
 
+
 #### CHANGELOG:
+ - *2.2*:   
+     Fixed Nike Cross text to reflect both stunning and killing all aliens as a requirement
+     Fixed Fallen Star to show "first award" when awarded instead of "sixth award".  
+     Corrected various spelling errors in award text
+
  - *2.1a*: Latest release now hosted on Github
  - *2.1*: Latest release before Github
+
