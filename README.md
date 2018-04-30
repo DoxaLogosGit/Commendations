@@ -1,7 +1,7 @@
-OpenXcom Commendations Mod v 3.0
+OpenXcom Commendations Mod v 3.1
 --------------------------------
 
-This mod requires at least: openxcom_git_master_2018_04_24_2218 or newer. Should work with OXCE+ as well.
+This mod requires at least: openxcom_git_master_2018_04_24_2218 or newer. 
 
 Your Soldier will now receive rewards for specific battleactions, like taking headshot on enemies.
 Currently there are 61 Commendations available, even thou some are still missing proper graphics and awesome texts.
@@ -12,6 +12,7 @@ Currently there are 61 Commendations available, even thou some are still missing
 - Ivan Dogovich: Initial Mod, Graphics
 - hellrazor: ruleset overwork, fixed templates, sorted files
 - jgatkinsn: various bug fixes
+- Meridian: many palette fixes on the images
 
 
 #### WHAT LICENSE IS THIS MOD UNDER?
@@ -53,6 +54,7 @@ Please post any feedback - bug reports, tanks, criticisms, requests for enhancem
 
 
 #### CHANGELOG:
+ - *3.1*: Fix metadata.yml and install file references.  Many palette fixes by Meridian.
  - *3.0*: Fixed Angel's Cross to use new stat for tracking revived soldiers - requires nightly openxcom_git_master_2018_04_24_2218 or greater   
  - *2.2*:   
      Fixed Nike Cross text to reflect both stunning and killing all aliens as a requirement  
